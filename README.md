@@ -17,6 +17,7 @@
 ├── Kubernetes
 │   ├── 00-入门
 │      ├── 01-初始Kubernetes
+│      ├── 02-二进制方式部署Kubernetes
 ```
 
 ## github图片不显示问题
