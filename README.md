@@ -21,6 +21,7 @@
 │      ├── 02-二进制方式部署kubernetes（测试完成）
 │      ├── 03-kubernetes前情回顾及学习路线
 │      ├── 04-kubectl详解
+│      ├── 05-flannel详解
 ```
 
 ## github图片不显示问题
