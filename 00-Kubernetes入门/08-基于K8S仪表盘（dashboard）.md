@@ -213,7 +213,7 @@ traefik-web-ui         traefik.od.com               80      18h
 $ORIGIN od.com.
 $TTL 600    ; 10 minutes
 @           IN SOA  dns.od.com. dnsadmin.od.com. (
-                2020111305 ; serial
+                2020111305 ; ser在·ial
                 10800      ; refresh (3 hours)
                 900        ; retry (15 minutes)
                 604800     ; expire (1 week)
