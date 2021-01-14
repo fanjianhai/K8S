@@ -57,7 +57,18 @@
 - 清空dns和浏览器缓存，dns缓存清空命令 ipconfig /flushdns
 - 刷新浏览器
 
+
+
+## Kubernetes 1.20 弃用 docker
+
+![](https://img-blog.csdnimg.cn/20201208090319172.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ZhbmppYW5oYWk=,size_16,color_FFFFFF,t_70)
+
+
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201208090356262.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ZhbmppYW5oYWk=,size_16,color_FFFFFF,t_70)
+
 ## 作者
+
 昵称：雪山飞狐<br/>
 格言：只言片语任我说，提笔句句无需忖。落笔不知寄何人，唯有邀友共斟酌<br/>
 博客：https://blog.csdn.net/fanjianhai <br/>
